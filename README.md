@@ -1,4 +1,4 @@
-<img width="401" height="263" alt="image" src="https://github.com/user-attachments/assets/0f682c3c-8ff8-4490-8b35-00dd438749d0" /># Ray-Trace-in-One-Weekend-Learning
+# Ray-Trace-in-One-Weekend-Learning
 
 # Ray Tracing in One Weekend - VS Code / C++ Implementation 🎨
 
